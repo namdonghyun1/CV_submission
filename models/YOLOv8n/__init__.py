@@ -1,0 +1,1 @@
+from .YOLOv8n import train_model
